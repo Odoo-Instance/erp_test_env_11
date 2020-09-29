@@ -53,7 +53,6 @@
     <menuitem
         id="menu_print_payment"menu_finance_reports
         name="Payments Report"
-<!--         parent="account.menu_finance_legal_statement" -->
         parent="account.menu_finance_reports"
         action="action_account_report_payment_menu"
         groups="account.group_account_manager,account.group_account_user"
